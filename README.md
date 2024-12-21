@@ -4,6 +4,10 @@ Collect the latest papers from Style Transfer.
 
 ---
 
+## Style-guided Image Generation
+1. Content-style disentangled representation for controllable artistic image stylization and generation,https://arxiv.org/abs/2412.14496,2024.12.21
+
+
 ## Image Style Transfer
 
 1. StyleStudio: Text-Driven Style Transfer with Selective Control of Style Elements, https://arxiv.org/abs/2412.08503, 2024.12.12
