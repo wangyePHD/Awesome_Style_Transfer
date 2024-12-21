@@ -4,6 +4,8 @@ Collect the latest papers from Style Transfer.
 
 ---
 
+
+
 ## Style-guided Image Generation
 1. Content-style disentangled representation for controllable artistic image stylization and generation,https://arxiv.org/abs/2412.14496,2024.12.21
 
@@ -17,3 +19,7 @@ Collect the latest papers from Style Transfer.
 ## Video Style Transfer
 
 1. StyleMaster: Stylize Your Video with Artistic Generation and Translation, https://arxiv.org/abs/2412.07744, 2024.12.10
+
+
+## Style Evaluation
+1. IntroStyle: Training-Free Introspective Style Attribution using Diffusion Features, https://arxiv.org/abs/2412.14432，2024.12.21
