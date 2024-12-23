@@ -23,3 +23,4 @@ Collect the latest papers from Style Transfer.
 
 ## Style Evaluation
 1. IntroStyle: Training-Free Introspective Style Attribution using Diffusion Features, https://arxiv.org/abs/2412.14432，2024.12.21
+2. DiffSim: Taming Diffusion Models for Evaluating Visual Similarity, 2024年12.22
